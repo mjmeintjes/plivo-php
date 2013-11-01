@@ -1,0 +1,11 @@
+{
+    "name": "plivo/plivo-php",
+    "type": "library",
+    "description": "A PHP wrapper for Plivo's API",
+    "keywords": ["plivo", "sms", "api"],
+    "homepage": "http://github.com/mjmeintjes/plivo-php",
+    "require": {
+        "php": ">=5.2.1",
+        "fpoirotte/http_request2": "2.1.*@dev"
+    }
+}
